@@ -126,6 +126,26 @@ If tools appear, the connection is working.
 
 ---
 
+## Downloading Assets — What Claude Can and Can't Do
+
+Claude **cannot** automatically download or install assets from the Daz store or community sites. This requires logging into a Daz account and using their Daz Install Manager app.
+
+**What needs to be done manually (by the user):**
+- Log into daz3d.com, add free/paid items to cart, download via Daz Install Manager
+- Download free zips from Renderosity or ShareCG and install manually into Daz Studio
+
+**What Claude can do once assets are installed:**
+- Browse the local Daz content library through the MCP
+- Find, load, and apply any installed environment, character, clothing, or pose
+- Everything from asset selection onward is fully automated
+
+**Before the first session, manually install at minimum:**
+- Genesis 9 Starter Essentials (included with Daz Studio install)
+- At least one free interior environment from the Daz store (search "free" + filter by environment/architecture)
+- A clothing outfit for your main character
+
+---
+
 ## Notes
 - This project was started on a work PC (Windows 11) and is intended to continue on a home PC
 - Claude Desktop is required (not Claude Code) for MCP tools to work with Daz Studio
