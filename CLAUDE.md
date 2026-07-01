@@ -126,6 +126,32 @@ If tools appear, the connection is working.
 
 ---
 
+## Clothing & Posing
+
+### Clothing Swaps
+Daz3D uses a **Smart Content / Fit To** system — swapping outfits is just double-clicking a clothing item from the library. It auto-conforms to the character's body shape instantly. Multiple items layer (shirt + jacket + pants + shoes). dForce simulates fabric drape on each new pose automatically. The character underneath stays identical across all scenes, so consistency is maintained.
+
+### Posing via MCP
+Claude can:
+- Apply any pre-made pose from the installed library by name
+- Blend and combine poses
+- Adjust specific joints (head tilt, arm raise, leg cross, etc.)
+- Move characters to exact positions within the scene
+- Set facial expressions and eye direction
+- Coordinate two characters (looking at each other, one reaching toward the other)
+
+Practical workflow: Claude applies the closest pre-made pose, then fine-tunes specific joints. For a VN, pre-made pose libraries cover ~90% of needs (sitting, standing, talking, reacting).
+
+### Scene Style Reference
+The target visual style is similar to mainstream Ren'Py games — Daz3D + Iray rendering, purchased environment sets, Genesis 8/9 figures with skin textures and hair assets. See the reference images in this repo for the quality benchmark.
+
+### Adult Content Split
+This VN contains adult themes with consenting adult characters. The workflow split is:
+- **Claude handles:** narrative scenes, romantic tension, suggestive framing, camera/lighting setups that imply rather than show
+- **User handles directly in Daz Studio:** any explicitly sexual poses or scenes — the same tools, assets, and characters are available, just operated manually
+
+---
+
 ## Downloading Assets — What Claude Can and Can't Do
 
 Claude **cannot** automatically download or install assets from the Daz store or community sites. This requires logging into a Daz account and using their Daz Install Manager app.
