@@ -157,6 +157,50 @@ Install all of these before the first Claude session. Use Daz Install Manager fo
 
 ---
 
+### Landscape & Exterior Environments
+
+**Strategy:** Use the same 3D asset for both wide establishing shots and close character scenes — just move the camera. This ensures perfect consistency in lighting, colour and style between wide and close shots. The only exception is city skyline shots (too heavy in full 3D) — use a free HDRI for those, then a city street set for closer scenes.
+
+#### Farm / Rural Scene
+Get both of these — they work together as a complete farmyard:
+
+| Asset | Link | Notes |
+|-------|------|-------|
+| [NFXstudios Farmhouse](https://www.daz3d.com/nfxstudios-farmhouse) | Daz Store | Real Midwestern farmhouse, 2-storey, exterior + interior, 80+ removable pieces |
+| [DAZ Barn](https://www.daz3d.com/daz-barn) | Daz Store | Large classic red North American barn — matches the VN farmyard description exactly |
+| [FG Farm Barn Bundle](https://www.daz3d.com/fg-farm-barn-bundle) | Daz Store | Alternative — barn + farmyard props bundle if preferring one purchase |
+
+Wide shot: load both assets, pull camera back to show house + barn together.
+Close shot: move camera to porch/yard area for character scenes. Same scene, same lighting.
+
+#### City Scenes
+| Asset | Link | Notes |
+|-------|------|-------|
+| [Urban Sprawl 2: The Big City](https://www.daz3d.com/urban-sprawl-2-the-big-city) | Daz Store | Largest city scene available — 100+ props, full buildings, good for wide shots |
+| [City Streets](https://www.daz3d.com/city-streets) | Daz Store | Street-level set for character scenes — alley + recreation area |
+| [Urban Street](https://www.daz3d.com/urban-street) | Daz Store | Gritty street alternative for character scenes |
+
+For city skyline establishing shots where characters aren't present, use a free HDRI instead (faster render, lighter on PC).
+
+#### Rural / Out of City
+No 3D asset needed — use free HDRIs from Poly Haven for countryside/road shots.
+
+---
+
+### Free HDRIs (City Skyline + Countryside Wide Shots)
+
+**[Poly Haven](https://polyhaven.com/hdris)** — completely free, CC0 license, no login required, up to 16K resolution. Download and load directly into Daz Studio as an environment map.
+
+Recommended downloads:
+- [Rural Landscape HDRI](https://polyhaven.com/a/rural_landscape) — soft sunrise countryside, dirt track, lake
+- [Rural Asphalt Road HDRI](https://polyhaven.com/a/rural_asphalt_road) — midday road through grassy fields
+- [Urban HDRIs collection](https://polyhaven.com/hdris/urban) — city/urban backdrops
+- [Skies collection](https://polyhaven.com/hdris/skies) — various sky conditions for matching lighting across scenes
+
+HDRIs load in Daz Studio via: **Render Settings → Environment → Draw Dome → load .hdr file**
+
+---
+
 ### Notes on Installing
 - All Daz store links above go to the exact product page — add to cart and download via Daz Install Manager
 - Genesis 8 pose packs work on Genesis 9 figures (Daz auto-converts them)
