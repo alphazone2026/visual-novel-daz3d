@@ -101,20 +101,67 @@ If tools appear, the connection is working.
 
 ---
 
-## Asset Recommendations
+## Asset Shopping List
 
-### Free Starting Assets (Daz3D)
-- Genesis 9 Starter Essentials (characters)
-- Daz Studio default HDRI lighting
-- Search Daz store during sales (70-90% off common)
+Install all of these before the first Claude session. Use Daz Install Manager for Daz store items. Sales are frequent — check before buying, discounts of 70-90% are common.
 
-### Free Community Assets
-- https://www.renderosity.com (search "free")
-- https://www.sharecg.com
+### FREE — Install First
 
-### Paid but worth it
-- Realistic interior environment sets: ~$15-30 each
-- Character clothing bundles: ~$10-20 each (watch for sales)
+| Asset | Where | Notes |
+|-------|-------|-------|
+| [Genesis 9 Starter Essentials](https://www.daz3d.com/genesis-9-starter-essentials) | Daz Store | Base character, included with Daz Studio install |
+| [Genesis 9 Starter Essentials Expansion](https://www.daz3d.com/genesis-9-starter-essentials-expansion) | Daz Store | Extra morphs and shapes, free |
+| Modern Interiors HDRI | Daz Store | Realistic interior lighting, search "Modern Interiors HDRI" |
+
+---
+
+### Environments
+
+| Asset | Where | Notes |
+|-------|-------|-------|
+| [i13 Executive Office Environment](https://www.daz3d.com/i13-executive-office-environment) | Daz Store | Best match for office/boss scene — 10 camera presets, reception, boardroom |
+| [Executive Office and Conference](https://www.daz3d.com/executive-office-and-conference) | Daz Store | Alternative office — modern professional style |
+| [FH Warehouse Room](https://www.daz3d.com/fh-warehouse-room) | Daz Store | Clean warehouse with metal racks and boxes — matches VN reference screenshots |
+| [Industrial Warehouse Environment](https://www.daz3d.com/industrial-warehouse-environment) | Daz Store | Alternative warehouse — more industrial/gritty |
+
+---
+
+### Poses
+
+| Asset | Where | Notes |
+|-------|-------|-------|
+| [Standing Conversation Poses 3 for Genesis 8, 8.1 and 9](https://www.daz3d.com/standing-conversation-poses-3-for-genesis-8-81-and-9) | Daz Store | Works on Genesis 9, male and female, various moods |
+| [Z Conversation and Disagreement Pose Mega Set](https://www.daz3d.com/z-conversation-and-disagreement-pose-mega-set-for-genesis-8-and-81) | Daz Store | 30 poses + mirrors + 10 couple poses — great value |
+| [Essential Office Poses for Genesis 8 Female](https://www.daz3d.com/essential-office-poses-for-genesis-8-female) | Daz Store | 25 office-specific poses, sitting/standing at desk |
+| [Z Modern Office Chair and Poses](https://www.daz3d.com/z-modern-office-chair-and-poses-for-genesis-8-and-81) | Daz Store | 35 poses designed for sitting in office chairs — perfect for desk scenes |
+
+---
+
+### Female Clothing
+
+| Asset | Where | Notes |
+|-------|-------|-------|
+| [dForce Women's Office Outfit for Genesis 9](https://www.daz3d.com/dforce-womens-office-outfit-for-genesis-9) | Daz Store | Jacket, shirt, skirt, shoes, glasses — multiple colours |
+| [MS Business Woman Outfit for Genesis 9 and 8 Female](https://www.daz3d.com/ms-business-woman-outfit-for-genesis-9-and-8-female) | Daz Store | Pencil skirt + shirt + vest, 12 texture sets |
+| [dForce Elegant Office Outfit for Genesis 9](https://www.daz3d.com/dforce-elegant-office-outfit-for-genesis-9) | Daz Store | Shirt, skirt, pumps — 6 colour options |
+
+---
+
+### Female Hair
+
+| Asset | Where | Notes |
+|-------|-------|-------|
+| [dForce CS Hannah Hair for Genesis 9](https://www.daz3d.com/dforce-cs-hannah-hair-for-genesis-9) | Daz Store | Mid-length, realistic strands, simulates with poses |
+| [dForce Strand-Based Beauty Style Long Hair for Genesis 9](https://www.daz3d.com/dforce-strand-based-beauty-style-long-hair-for-genesis-9-and-genesis-8-female) | Daz Store | Long flowing hair, matches VN reference style |
+| [dForce CS Belle Hair for Genesis 9 and 8 Female](https://www.daz3d.com/dforce-cs-belle-hair-for-genesis-9-and-8-female) | Daz Store | Low bun with soft waves — professional look |
+
+---
+
+### Notes on Installing
+- All Daz store links above go to the exact product page — add to cart and download via Daz Install Manager
+- Genesis 8 pose packs work on Genesis 9 figures (Daz auto-converts them)
+- Install everything before starting a Claude session — Claude can then browse and use any installed asset via MCP
+- Free community assets also available at [Renderosity](https://www.renderosity.com) and [ShareCG](https://www.sharecg.com) — search "free" and filter by category
 
 ---
 
