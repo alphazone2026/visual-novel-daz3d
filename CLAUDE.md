@@ -157,12 +157,46 @@ Install all of these before the first Claude session. Use Daz Install Manager fo
 
 ---
 
+### Apartment Interior
+
+| Asset | Link | Notes |
+|-------|------|-------|
+| [Home One Apartment](https://www.daz3d.com/home-one-apartment) | Daz Store | Best option — 5 rooms (living room, bedroom, kitchen, bathroom, hallway), load full apartment or individual rooms |
+| [Modern Apartment Living](https://www.daz3d.com/modern-apartment-living) | Daz Store | Alternative — fully furnished modern high-rise living room |
+| [Stylish Apartment Interior](https://www.daz3d.com/stylish-apartment-interior) | Daz Store | Alternative — sleek contemporary with bar area and modern lighting |
+
+---
+
+### Train Interior (3D)
+
+| Asset | Link | Notes |
+|-------|------|-------|
+| [Polish Highspeed Train](https://www.daz3d.com/polish-highspeed-train) | Daz Store | Best for modern realistic VN — clean seats, overhead storage, integrated lighting |
+| [Train Dine](https://www.daz3d.com/train-dine) | Daz Store | Alternative — vintage English-style carriage, good for period feel |
+
+### Train Exterior (2D Background)
+No 3D needed — use a free 2D PNG background for the brief exterior/transition shot:
+- [Free Visual Novel Backgrounds Starter Pack 2](https://potat0master.itch.io/free-visual-novel-backgrounds-starter-pack-2) — includes a "Train Scene Day" background, free on itch.io
+- [Old Sunny City with Train Station Pack](https://rachelchen.itch.io/old-sunny-city-with-train-station-pack-6-visual-novel-backgrounds) — 6 backgrounds including train station, ~$4 total
+
+---
+
+### City (2D Background)
+Quick establishing shot only — no characters, no 3D needed:
+- [City Visual Novel Backgrounds](https://www.deviantart.com/deusaloki/art/City-Visual-Novel-Backgrounds-Free-Download-1087214052) — free city backgrounds on DeviantArt
+- [City-Visual Novel Backgrounds by Florassence](https://florassence.itch.io/city-backgrounds) — 1920x1080 PNG, $1
+- [Poly Haven Urban HDRIs](https://polyhaven.com/hdris/urban) — free, can render as a still background in Daz if preferred
+
+---
+
 ### Landscape & Exterior Environments
 
 **Strategy:** Use the same 3D asset for both wide establishing shots and close character scenes — just move the camera. This ensures perfect consistency in lighting, colour and style between wide and close shots. The only exception is city skyline shots (too heavy in full 3D) — use a free HDRI for those, then a city street set for closer scenes.
 
-#### Farm / Rural Scene
-Get both of these — they work together as a complete farmyard:
+#### Farm / Rural Scene — Master Stage
+Get all of these — they build one complete farmyard master scene. Claude will piece them together with correct positioning, lighting and terrain so all farm shots load from the same saved scene file.
+
+**Buildings:**
 
 | Asset | Link | Notes |
 |-------|------|-------|
@@ -170,8 +204,26 @@ Get both of these — they work together as a complete farmyard:
 | [DAZ Barn](https://www.daz3d.com/daz-barn) | Daz Store | Large classic red North American barn — matches the VN farmyard description exactly |
 | [FG Farm Barn Bundle](https://www.daz3d.com/fg-farm-barn-bundle) | Daz Store | Alternative — barn + farmyard props bundle if preferring one purchase |
 
-Wide shot: load both assets, pull camera back to show house + barn together.
-Close shot: move camera to porch/yard area for character scenes. Same scene, same lighting.
+**Vegetation & Ground:**
+
+| Asset | Link | Notes |
+|-------|------|-------|
+| [Forests Trees and Grass World Building Set](https://www.daz3d.com/forests-trees-and-grass-world-building-set) | Daz Store | Low poly trees + grass — won't slow renders down, covers background treeline |
+| [ULTIMATE Grass & Meadow Worldbuilder](https://www.daz3d.com/ultimate-grass--meadow-worldbuilder) | Daz Store | Best grass kit — terrain morphs, grass patches, skydomes, 40+ material presets |
+| [Grassy Hills](https://www.daz3d.com/grassy-hills) | Daz Store | Terrain base with hills — good for rolling farmland feel |
+
+**Farm Props (fencing, hay, scatter):**
+
+| Asset | Link | Notes |
+|-------|------|-------|
+| [On The Farm Bundle](https://www.daz3d.com/on-the-farm-bundle) | Daz Store | Best value — trees, fence, vegetable patches, treeline background, 175 textures |
+| [Harvest Hay Bales](https://www.daz3d.com/harvest-hay-bales) | Daz Store | Round + square hay bales, hay pile, straw scatters |
+| [Farm Gear](https://www.daz3d.com/farm-gear) | Daz Store | Tools, equipment, scatter props for yard realism |
+
+**Free nature freebie:** Search the Daz forums post ["Freebie Collection Nature"](https://www.daz3d.com/forums/discussion/289371/freebie-collection-nature-vegetation-plants-ground-textures-landscape-3d-scans) — large collection of free vegetation, plants, ground textures and landscape assets.
+
+Wide shot: camera pulled back showing house + barn + yard + treeline together.
+Close shot: camera moved to porch/yard for character scenes. Same scene file, same lighting throughout.
 
 #### City Scenes
 | Asset | Link | Notes |
@@ -214,6 +266,20 @@ HDRIs load in Daz Studio via: **Render Settings → Environment → Draw Dome �
   - 196 commands, very comprehensive
   - Requires compiling from C++ source — more complex setup
   - Use vangard-daz-mcp first; fall back to this if needed
+
+---
+
+## Scene Plan Overview
+
+| Location | Method | Reason |
+|----------|--------|--------|
+| City skyline | 2D background (HDRI or free PNG) | Quick establishing shot, no characters, no need for full 3D |
+| Apartment interior | Full 3D (Daz) | Characters present, multiple scenes set here |
+| Train exterior | 2D background (free PNG from itch.io) | Brief transition shot, no characters |
+| Train interior | Full 3D (Daz) | Characters present inside train |
+| Farm yard | Full 3D (Daz) — master scene | Most of the game takes place here, wide + close shots from same scene |
+
+The farm yard gets the most investment — one well-built master scene covers all exterior farm shots just by moving the camera.
 
 ---
 
